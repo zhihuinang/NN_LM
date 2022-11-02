@@ -1,0 +1,14 @@
+10/28/2022 13:33:13 - INFO - __main__ - finish training 1 epoch, ppl = 1185.2890304396208 for label
+10/28/2022 14:25:14 - INFO - __main__ - finish training 2 epoch, ppl = 382.1955779411753 for label
+10/28/2022 15:18:10 - INFO - __main__ - finish training 3 epoch, ppl = 242.03234811669358 for label
+10/28/2022 15:57:09 - INFO - __main__ - finish training 4 epoch, ppl = 186.98817631278908 for label
+10/28/2022 16:33:53 - INFO - __main__ - finish training 5 epoch, ppl = 158.6459646270662 for label
+10/30/2022 16:14:07 - INFO - __main__ - ------resuming last training------
+10/30/2022 16:18:17 - INFO - __main__ - finish test, ppl = 1017.079684840109 for label
+10/30/2022 16:26:51 - INFO - __main__ - ------resuming last training------
+10/30/2022 17:02:42 - INFO - __main__ - finish training 1 epoch, ppl = 216.25336815859404 for label
+10/30/2022 17:38:55 - INFO - __main__ - finish training 2 epoch, ppl = 155.92761969886678 for label
+10/30/2022 18:15:19 - INFO - __main__ - finish training 3 epoch, ppl = 133.81904731206427 for label
+10/30/2022 18:51:49 - INFO - __main__ - finish training 4 epoch, ppl = 122.72778285665323 for label
+10/30/2022 19:28:07 - INFO - __main__ - finish training 5 epoch, ppl = 115.13863140134985 for label
+10/30/2022 19:32:07 - INFO - __main__ - finish test, ppl = 1423.9457030432866 for label

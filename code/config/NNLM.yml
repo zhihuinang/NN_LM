@@ -1,0 +1,9 @@
+model_type: 'NNLM'
+ckpt: './result/NNLM'
+
+embedding_size: 30
+hidden_size: 50
+n_step: 5
+
+epoch: 5
+lr: 0.01

@@ -1,0 +1,8 @@
+model_type: 'Attention'
+ckpt: './result/Attention'
+
+embedding_size: 30
+n_step: 5
+
+epoch: 5
+lr: 0.01
